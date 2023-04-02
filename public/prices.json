@@ -1,0 +1,21 @@
+    [
+      {
+        "id": 1,
+        "name": "Bronze",
+        "price": 20,
+        "features": ["Gym Access"]
+      },
+      {
+        "id": 2,
+        "name": "Silver",
+        "price": 35,
+        "features": ["Gym Access", "1 PT Session"]
+      },
+      {
+        "id": 3,
+        "name": "Gold",
+        "price": 50,
+        "features": ["Gym Access", "3 PT Sessions", "Group Classes"]
+      }
+    ]
+  
